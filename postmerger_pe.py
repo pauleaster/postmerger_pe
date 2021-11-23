@@ -679,7 +679,7 @@ def main():
 
     fig = result.plot_corner(new_corner_parameters)
 
-    fig.suptitle(label, fontsize=20)
+    # fig.suptitle(label, fontsize=20)
     fig.savefig(f'{options.plotdir}{label}_corner.pdf')
 
 
