@@ -12,4 +12,4 @@ For instance, the code listed here used the SLy THC:0036:R03 simulation listed h
 
 `https://core-gitlfs.tpi.uni-jena.de/core_database/THC_0036/-/tree/master/R03`
 
-and place the `NRtars/THC:0036:R03.tar` file in the `./NRtars` directory.
+and place the `THC:0036:R03.tar` file in the `./NRtars` directory.
