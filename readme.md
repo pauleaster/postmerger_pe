@@ -13,3 +13,5 @@ For instance, the code listed here used the SLy THC:0036:R03 simulation listed h
 `https://core-gitlfs.tpi.uni-jena.de/core_database/THC_0036/-/tree/master/R03`
 
 and place the `THC:0036:R03.tar` file in the `./NRtars` directory.
+
+Also a dependency, tables, does not work with python 3.9 onwards. I have tested this with python 3.7.
